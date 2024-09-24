@@ -1,0 +1,5 @@
+Välkommen till DA339A!
+
+Kolla så att både mappen och denna text-filen ligger på rätt ställe!
+
+(kurser/da339a/lab)
